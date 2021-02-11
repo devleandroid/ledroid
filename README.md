@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <br>
 <!--![](https://komarev.com/ghpvc/?username=ledroid)-->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledroid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 **Let's connect ? handshake <img class="emoji" alt="handshake" src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png" width="20" height="20">
 

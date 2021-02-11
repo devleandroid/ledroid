@@ -69,12 +69,11 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 ![Ledroid GitHub stats](https://github-readme-stats.vercel.app/api?username=ledroid&theme=merko&show_icons=true)
 -->
-<a></a>
-<br>
 <!--
 ![](https://komarev.com/ghpvc/?username=ledroid)
 -->
-</br>
+
+
 ### Let's connect ? 🤝
 
 [![Linkedin: Leandro Marques](https://img.shields.io/badge/-Leandro_Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroid-marques/)](https://www.linkedin.com/in/leandroid-marques/)

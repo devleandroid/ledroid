@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 <br>
 <!--![](https://komarev.com/ghpvc/?username=ledroid)-->
+<img src="https://camo.githubusercontent.com/c2b1c19ab9482744d9316f374f27492192a05277bf4533fb5216a5b8d273f927/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4775696c6c61756d6546616c6f757264266c61796f75743d636f6d70616374266c616e67735f636f756e743d38" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ledroidd&amp;layout=compact&amp;langs_count=8" style="max-width:100%;" height="180em">
 <br>
 **Outside of [GitHub](https://github.com/ledroid/), You can **find me. Currently I'm **free to contribute**
 

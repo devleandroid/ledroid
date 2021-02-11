@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 Outside of [GitHub](https://github.com/ledroid/), You can **find me. Currently I'm **free to contribute**
 
-[![Linkedin: Leandro Marques](https://img.shields.io/badge/-Leandro Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroid-marques/)](https://www.linkedin.com/in/leandroid-marques/)
+[![Linkedin: LeandroMarques](https://img.shields.io/badge/-LeandroMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroid-marques/)](https://www.linkedin.com/in/leandroid-marques/)

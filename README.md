@@ -52,7 +52,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
+<p>
 ![Ledroid GitHub stats](https://github-readme-stats.vercel.app/api?username=ledroid&theme=merko&show_icons=true)
+ <img src="https://camo.githubusercontent.com/81bfe59a05dba9fe803de55579624bd4ea2f18f241dc93b899448aff17958e02/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4775696c6c61756d6546616c6f757264" alt="Github Contributions" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ledroid" style="max-width:100%;">
+ </p>
 <br>
 ![](https://komarev.com/ghpvc/?username=ledroid)
 <br>

@@ -1,6 +1,13 @@
-### Hi there 👋
 
+<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
+ 
+### Hi there 👋, I'm Leandro Marques. I'm a Android developer and technical writer. Welcome to my gh page! <br>
+ 
+Resume:  [Leandro Marques Resume](https://www.linkedin.com/in/leandroid-marques) (PDF download)
+ 
 
+ 
+<--
 **ledroid/ledroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

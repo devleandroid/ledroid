@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Leandro Marques. I'm an Android developer, Java and Kotlin developer, speaker and working at [Zup Innovation](www.zup.com.br)..  <br>
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ledroid&repo=ledroid&countColorcountColor) 
+
+### Hi there 👋, I'm Leandro Marques. I'm an Android developer, Java and Kotlin developer, speaker and working at [Zup Innovation](www.zup.com.br).  <br>
 
 ![Snake animation](https://github.com/ledroid/ledroid/blob/output/github-contribution-grid-snake.svg)
 

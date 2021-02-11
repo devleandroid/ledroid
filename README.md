@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Leandro Marques. I'm an Android developer, Java and Kotlin developer, speaker and working at [Zup Innovation](www.zup.com.br).  <br>
 
-![Snake animation](https://github.com/ledroid/ledroid/master/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ledroid/ledroid/master/svg/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
 

@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Leandro Marques. I'm an Android developer, Java and Kotlin developer and speaker.  <br>
+### Hi there 👋, I'm Leandro Marques. I'm an Android developer, Java and Kotlin developer, speaker and working at [Zup Innovation](www.zup.com.br)..  <br>
 
 ![Snake animation](https://github.com/ledroid/ledroid/blob/output/github-contribution-grid-snake.svg)
+
 ### Languages & Tools 🛠
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

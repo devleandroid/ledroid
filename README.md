@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 -->
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 ![Ledroid GitHub stats](https://github-readme-stats.vercel.app/api?username=ledroid&theme=merko&show_icons=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+![](https://komarev.com/ghpvc/?username=ledroid)
 <br>
 **Outside of [GitHub](https://github.com/ledroid/), You can **find me. Currently I'm **free to contribute**
 

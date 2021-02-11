@@ -37,4 +37,6 @@ Outside of [GitHub](https://github.com/ledroid/), You can **find me. Currently I
 
 [![Linkedin: Leandro Marques](https://img.shields.io/badge/-Leandro_Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroid-marques/)](https://www.linkedin.com/in/leandroid-marques/)
 
-![Algorithm schema](./images/schema.jpg)
+<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+
+<!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}-->

@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <a></a>
 <br>
 <!--![](https://komarev.com/ghpvc/?username=ledroid)-->
-<br>
+</br>
 ### Let's connect ? 🤝
 
 [![Linkedin: Leandro Marques](https://img.shields.io/badge/-Leandro_Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroid-marques/)](https://www.linkedin.com/in/leandroid-marques/)

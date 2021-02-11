@@ -1,8 +1,10 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ledroid&repo=ledroid&countColorcountColor) 
 
 ### Hi there 👋, I'm Leandro Marques. I'm an Android developer, Java and Kotlin developer, speaker and working at [Zup Innovation](www.zup.com.br).  <br>
 
-![Snake animation](https://github.com/ledroid/ledroid/master/svg/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ledroid/ledroid/master/svg/github-user-contribution.svg)
 
 ### Languages & Tools 🛠
 

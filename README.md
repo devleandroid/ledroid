@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 
 
 [![Linkedin: Leandro Marques](https://img.shields.io/badge/-Leandro_Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroid-marques/)](https://www.linkedin.com/in/leandroid-marques/)
-[![Gmail: Leandro Marques](https://img.shields.io/badge/-Leandro_Marques-blue?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/)](https://mail.google.com/)
+[![Gmail: Leandro Marques](https://img.shields.io/badge/-Leandro_Marques-blue?style=flat-square&logo=Gmail&logoColor=red&link=https://mail.google.com/)](https://mail.google.com/)
 <br>

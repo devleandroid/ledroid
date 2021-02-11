@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Leandro Marques. I'm a Android developer and technical writer. Welcome to my gh page! <br>
+### Hi there 👋, I'm Leandro Marques. I'm an Android developer, Java and Kotlin developer and speaker  <br>
  
 
 **Languages and Tools:**
@@ -16,7 +16,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
+<br>
  
 <!--
 **ledroid/ledroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 Outside of [GitHub](https://github.com/ledroid/), You can **find me. Currently I'm **free to contribute**
+<br>
 
 [![Linkedin: Leandro Marques](https://img.shields.io/badge/-Leandro_Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroid-marques/)](https://www.linkedin.com/in/leandroid-marques/)
-
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
-
-<!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}-->
+<br>
+GITHUB_REPOS:{"rows": 4, "raw": true}

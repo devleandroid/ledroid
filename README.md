@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Leandro Marques. I'm an Android developer, Java and Kotlin developer and speaker  <br>
+### Hi there 👋, I'm Leandro Marques. I'm an Android developer, Java and Kotlin developer and speaker.  <br>
  
 
 **Languages and Tools:**
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+**<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+**<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/api/api.png"></code>
@@ -38,4 +38,3 @@ Outside of [GitHub](https://github.com/ledroid/), You can **find me. Currently I
 
 [![Linkedin: Leandro Marques](https://img.shields.io/badge/-Leandro_Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroid-marques/)](https://www.linkedin.com/in/leandroid-marques/)
 <br>
-GITHUB_REPOS:{"rows": 4, "raw": true}

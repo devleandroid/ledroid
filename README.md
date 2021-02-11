@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![Ledroid GitHub stats](https://github-readme-stats.vercel.app/api?username=ledroid&theme=merko&show_icons=true)
 
 <br>
-![](https://komarev.com/ghpvc/?username=ledroid)
+<!--![](https://komarev.com/ghpvc/?username=ledroid)-->
 <br>
 **Outside of [GitHub](https://github.com/ledroid/), You can **find me. Currently I'm **free to contribute**
 

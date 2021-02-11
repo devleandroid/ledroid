@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
-![Ledroid GitHub stats](https://github-readme-stats.vercel.app/api?username=ledroid&theme=gradient&show_icons=true)
+![Ledroid GitHub stats](https://github-readme-stats.vercel.app/api?username=ledroid&theme=merko&show_icons=true)
 <a></a>
-[![](https://raw.githubusercontent.com/ledroid/ledroid/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Ledroid Languge](https://raw.githubusercontent.com/ledroid/ledroid/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <br>
 <!--![](https://komarev.com/ghpvc/?username=ledroid)-->
 <br>

@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 -->
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 ![Ledroid GitHub stats](https://github-readme-stats.vercel.app/api?username=ledroid&theme=merko&show_icons=true)
-
+<a></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledroid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <!--![](https://komarev.com/ghpvc/?username=ledroid)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledroid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 **Let's connect ? handshake <img class="emoji" alt="handshake" src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png" width="20" height="20">
 

@@ -6,6 +6,8 @@
 
 <!-- ![Snake animation](https://raw.githubusercontent.com/ledroid/ledroid/master/svg/github-user-contribution.svg) -->
 
+<a href="#"><img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200 " height="200" /></a>
+
 ### Languages & Tools 🛠
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -29,7 +31,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"></code>
+
 <!-- ![imageName](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2016%2F10%2FAndroid-Logo.png&f=1&nofb=1) -->
 ### Analytics ⚙️
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledroid&layout=compact&count_private=true)

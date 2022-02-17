@@ -10,26 +10,26 @@
 
 ### Languages & Tools 🛠
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+<code>![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)</code>&nbsp;
+<code>![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)</code>&nbsp;
+<code>![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)</code>&nbsp;
+<code>![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)</code>&nbsp;
 
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
-![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
-![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)&nbsp;
+<code>![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)</code>&nbsp;
+<code>![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)</code>&nbsp;
+<code>![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)</code>&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)&nbsp;
+<code>![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)</code>&nbsp;
+<code>![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)</code>&nbsp;
+<code>![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=white)</code>&nbsp;
+<code>![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)</code>&nbsp;
+<code>![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)</code>&nbsp;
 
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+<code>![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)</code>&nbsp;
+<code>![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)</code>&nbsp;
+<code>![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)</code>&nbsp;
+<code>![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)</code>&nbsp;
+<code>![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)</code>&nbsp;
 
 
 <!-- ![imageName](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2016%2F10%2FAndroid-Logo.png&f=1&nofb=1) -->

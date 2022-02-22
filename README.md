@@ -35,9 +35,10 @@
 <!-- ![imageName](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2016%2F10%2FAndroid-Logo.png&f=1&nofb=1) -->
 ### Analytics ⚙️
 
+[![Github Contributions](https://github-readme-stats.vercel.app/api/?username=devleandroid&count_private=true&show_icons=true)](https://github.com/devleandroid)
+
 <p align="left">
 <a href="https://github.com/AVS1508">
-  [![Github Contributions](https://github-readme-stats.vercel.app/api/?username=devleandroid&count_private=true&show_icons=true)](https://github.com/devleandroid)
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=devleandroid&count_private=true&show_icons=true"/> -->
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ledroid&layout=compact&langs_count=8"/>  -->
 </a>

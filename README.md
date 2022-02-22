@@ -37,7 +37,8 @@
 
 <p align="left">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=devleandroid&count_private=true&show_icons=true"/>
+  [![Github Contributions](https://github-readme-stats.vercel.app/api/?username=devleandroid&count_private=true&show_icons=true)](https://github.com/devleandroid)
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=devleandroid&count_private=true&show_icons=true"/> -->
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ledroid&layout=compact&langs_count=8"/>  -->
 </a>
 </p>

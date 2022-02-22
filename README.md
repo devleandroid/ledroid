@@ -34,7 +34,6 @@
 
 <!-- ![imageName](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2016%2F10%2FAndroid-Logo.png&f=1&nofb=1) -->
 ### Analytics ⚙️
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ledroid&layout=compact&count_private=true)
 
 <p align="left">
 <a href="https://github.com/AVS1508">
@@ -43,7 +42,7 @@
 </a>
 </p>
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ledroid)
+[![Github Contributions](https://github-readme-stats.vercel.app/api?username=devleandroid&count_private=true&hide=issues&show_icons=true&theme=graywhite&title_color=f53505)](https://github.com/devleandroid)
 
 <!--
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>

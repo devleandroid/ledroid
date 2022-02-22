@@ -51,12 +51,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 ![Ledroid GitHub stats](https://github-readme-stats.vercel.app/api?username=ledroid&theme=merko&show_icons=true)
--->
 
-![](https://komarev.com/ghpvc/?username=ledroid)
+
+<!-- ![](https://komarev.com/ghpvc/?username=ledroid) -->
 
 
 ### Let's connect ? 🤝

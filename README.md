@@ -4,7 +4,7 @@
 
 ### Hello, world! 👋, I'm Leandro Marques. I'm an Android developer, Java and Kotlin developer, speaker and working at [Developer Engineering](https://www.linkedin.com/in/leandroid-marques/).  <br>
 
-![Snake animation](https://raw.githubusercontent.com/ledroid/ledroid/master/svg/github-user-contribution.svg)
+[![Snake animation](https://raw.githubusercontent.com/devleandroid/ledroid/master/svg/github-user-contribution.svg)]
 
 <a href="#"><img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200 " height="200" /></a>
 

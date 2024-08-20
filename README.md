@@ -1,62 +1,47 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+<p align="left">Olá! Eu sou Leandro, Desenvolvedor Android com uma sólida trajetória no desenvolvimento de aplicativos móveis</p>
+<p align="left">Com uma carreira que remonta a 1993, quando comecei a me aventurar no mundo da tecnologia da informação, me especializei em desenvolvimento de Aplicações Móveis e Web em 2011. Minha expertise abrange desde a criação de aplicativos Android robustos e seguros até a integração com APIs REST e bancos de dados, utilizando as mais modernas ferramentas e frameworks como SQLite, ROOM, Retrofit, Coroutines, LiveData, e arquiteturas como MVC, MVVM e MVP.
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ledroid&repo=ledroid&countColorcountColor) 
+Tenho um forte compromisso com Clean Code e sigo as melhores práticas para garantir que meus aplicativos sejam não apenas funcionais, mas também de fácil manutenção e alta performance. Além disso, estou altamente capacitado em testes unitários e de integração, injeção de dependências, autenticação em serviços externos, e criação de logs.
 
-### Hello, world! 👋, I'm Leandro Marques. I'm an Android developer, Java and Kotlin developer, speaker and working at [Developer Engineering](https://www.linkedin.com/in/leandroid-marques/).  <br>
+Meu trabalho é guiado pela paixão por tecnologia, que também me leva a compartilhar conhecimento como palestrante em temas como Mobilidade Urbana, UX/UI, e em eventos de grande porte como o FISL (Fórum Internacional de Software Livre). Além disso, dedico-me à educação, atuando como professor no Projeto Pescar e na Faculdade QI em Porto Alegre.
 
-<!-- ![Snake animation](https://github.com/devleandroid/ledroid/blob/output/github-contribution-grid-snake.svg) -->
+Se você procura um desenvolvedor Android com profundo conhecimento técnico e experiência comprovada na criação de soluções inovadoras, estou à disposição para contribuir em novos projetos.</p>
 
-<a href="#"><img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200 " height="200" /></a>
+###
+<br></br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="sqlite logo"  />
+</div>
 
-### Languages & Tools 🛠
+###
 
-<code>![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)</code>&nbsp;
-<code>![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)</code>&nbsp;
-<code>![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)</code>&nbsp;
-<code>![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)</code>&nbsp;
+<div align="left">
+  <a href="https://www.linkedin.com/in/leandroid-marques/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+  <div align="left">
+  <a href="leandro.hdsl@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-<code>![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)</code>&nbsp;
-<code>![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)</code>&nbsp;
-<code>![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)</code>&nbsp;
-
-<code>![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)</code>&nbsp;
-<code>![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)</code>&nbsp;
-<code>![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=white)</code>&nbsp;
-<code>![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)</code>&nbsp;
-<code>![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)</code>&nbsp;
-
-<code>![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)</code>&nbsp;
-<code>![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)</code>&nbsp;
-<code>![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)</code>&nbsp;
-<code>![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)</code>&nbsp;
-<code>![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)</code>&nbsp;
-
-
-<!-- ![imageName](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2016%2F10%2FAndroid-Logo.png&f=1&nofb=1) -->
-### Analytics ⚙️
-
-[![Github Contributions](https://github-readme-stats.vercel.app/api/?username=devleandroid&count_private=true&show_icons=true)](https://github.com/devleandroid)
-
-<!--
-**ledroid/ledroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ![](https://komarev.com/ghpvc/?username=ledroid) -->
-
-
-### Let's connect ? 🤝
-
-[![Linkedin: Leandro Marques](https://img.shields.io/badge/-Leandro_Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroid-marques/)](https://www.linkedin.com/in/leandroid-marques/)
-[![Gmail: Leandro Marques](https://img.shields.io/badge/-leandro.hdsl@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/)](https://leandro.hdsl@gmail.com/)
-<br>
+###

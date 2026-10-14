@@ -1,11 +1,22 @@
-<p align="left">Olá! Eu sou Leandro, Desenvolvedor Android com uma sólida trajetória no desenvolvimento de aplicativos móveis</p>
-<p align="left">Com uma carreira que remonta a 1993, quando comecei a me aventurar no mundo da tecnologia da informação, me especializei em desenvolvimento de Aplicações Móveis e Web em 2011. Minha expertise abrange desde a criação de aplicativos Android robustos e seguros até a integração com APIs REST e bancos de dados, utilizando as mais modernas ferramentas e frameworks como SQLite, ROOM, Retrofit, Coroutines, LiveData, e arquiteturas como MVC, MVVM e MVP.
+<h1>Olá! Sou Leandro Marques 👋</h1>
 
-Tenho um forte compromisso com Clean Code e sigo as melhores práticas para garantir que meus aplicativos sejam não apenas funcionais, mas também de fácil manutenção e alta performance. Além disso, estou altamente capacitado em testes unitários e de integração, injeção de dependências, autenticação em serviços externos, e criação de logs.
+<p>Desenvolvedor Mobile Android Sênior, atualmente na CI&T, trabalhando com Kotlin no projeto ViaUnica, do Grupo Casas Bahia. Desenvolvo e evoluo funcionalidades com foco em qualidade, desempenho e experiência do usuário.</p>
 
-Meu trabalho é guiado pela paixão por tecnologia, que também me leva a compartilhar conhecimento como palestrante em temas como Mobilidade Urbana, UX/UI, e em eventos de grande porte como o FISL (Fórum Internacional de Software Livre). Além disso, dedico-me à educação, atuando como professor no Projeto Pescar e na Faculdade QI em Porto Alegre.
+<p>No dia a dia, trabalho com Android nativo, Jetpack Compose e XML, aplicando Clean Architecture, MVVM e Clean Code. Também atuo com integração de APIs usando Retrofit, persistência local com Room/SQLite, CI/CD e testes automatizados.</p>
 
-Se você procura um desenvolvedor Android com profundo conhecimento técnico e experiência comprovada na criação de soluções inovadoras, estou à disposição para contribuir em novos projetos.</p>
+<h2>Experiência</h2>
+
+<p>Ao longo da minha trajetória, participei de projetos para empresas e instituições como Grupo Casas Bahia, Next/Bradesco, Banco Digio, Banco Itaú, Magalu e Hipercard. Também tive experiência com desenvolvimento iOS em Swift, Flutter e APIs/backend.</p>
+
+<p>Minha carreira em tecnologia começou em 1993, com atuação em telecomunicações e redes de computadores, antes de direcionar minha especialização para desenvolvimento mobile e web, em 2011.</p>
+
+<h2>Tecnologias e práticas</h2>
+
+<p>Kotlin · Java · Android · Jetpack Compose · XML · MVVM · Clean Architecture · Retrofit · Room · SQLite · Dagger · JUnit · Mockito · CI/CD · Swift · Flutter · Python · Django · Spring Boot</p>
+
+<p>Também gosto de compartilhar conhecimento: fui palestrante no FISL e em eventos de tecnologia, professor no Projeto Pescar e coach em iniciativas como Django Girls e Rails Girls.</p>
+
+<p>Tenho interesse em colaborar em projetos mobile que valorizem boas práticas de engenharia, trabalho em equipe e uma experiência de qualidade para as pessoas usuárias.</p>
 
 ###
 <br></br>
@@ -14,13 +25,7 @@ Se você procura um desenvolvedor Android com profundo conhecimento técnico e e
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -29,6 +34,12 @@ Se você procura um desenvolvedor Android com profundo conhecimento técnico e e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -39,7 +50,7 @@ Se você procura um desenvolvedor Android com profundo conhecimento técnico e e
   </a>
 </div>
   <div align="left">
-  <a href="leandro.hdsl@gmail.com" target="_blank">
+  <a href="mailto:leandro.hdsl@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
